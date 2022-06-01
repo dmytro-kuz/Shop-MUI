@@ -9,7 +9,7 @@ npm install
 ```
 
 
-In the project directory, you can run:
+To start the project:
 
 ```
 npm run
