@@ -12,7 +12,7 @@ npm install
 To start the project:
 
 ```
-npm run
+npm start
 ```
 
 
